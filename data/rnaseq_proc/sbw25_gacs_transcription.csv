@@ -1,0 +1,251 @@
+pathway;gene;change;locus
+gac tcs;gacS;none;PFLU3777
+gac tcs;gacA;none;PFLU2189
+sRNA binding proteins;csrA1/RsmE;none;PFLU4165
+sRNA binding proteins;csrA2;none;PFLU4324
+sRNA binding proteins;rsmA;none;PFLU4746
+oxidative stress;;up;PFLU0873
+oxidative stress;fumC1;up;PFLU0874
+oxidative stress;;up;PFLU0875
+oxidative stress;sodA;up;PFLU0876
+oxidative stress;;up;PFLU0877
+oxidative stress;rpoS;down;PFLU1302
+oxidative stress;sodB;down;PFLU4855
+oxidative stress;katE;down;PFLU0071
+iron homeostasis_heme;;up;PFLU2787
+iron homeostasis_heme;;up;PFLU2788
+iron homeostasis_heme;;up;PFLU4968
+iron homeostasis_heme;;up;PFLU5136
+iron homeostasis_heme;hmuV;up;PFLU5227
+iron homeostasis_heme;;up;PFLU5228
+iron homeostasis_heme;;up;PFLU5229
+iron homeostasis_tonB;;up;PFLU0295
+iron homeostasis_tonB;;up;PFLU1022
+iron homeostasis_tonB;;up;PFLU1040
+iron homeostasis_tonB;;up;PFLU1405
+iron homeostasis_tonB;;up;PFLU2545
+iron homeostasis_tonB;;up;PFLU2598
+iron homeostasis_tonB;;up;PFLU3378
+iron homeostasis_tonB;;up;PFLU4093
+iron homeostasis_tonB;;up;PFLU4968
+iron homeostasis_tonB;;up;PFLU5361
+iron homeostasis_tonB;;up;PFLU5629
+iron homeostasis_tonB;;up;PFLU6132
+iron homeostasis_electrontransport;;up;PFLU5137
+iron homeostasis_electrontransport;;up;PFLU5138
+iron homeostasis_electrontransport;;up;PFLU5139
+iron homeostasis_pyoverdine;;up;PFLU2042
+iron homeostasis_pyoverdine;;up;PFLU2046
+iron homeostasis_pyoverdine;pvdI;up;PFLU2543
+iron homeostasis_pyoverdine;pvdJ;up;PFLU2544
+iron homeostasis_pyoverdine;fpvA;up;PFLU2545
+iron homeostasis_pyoverdine;;up;PFLU2546
+iron homeostasis_pyoverdine;;up;PFLU2547
+iron homeostasis_pyoverdine;;up;PFLU2548
+iron homeostasis_pyoverdine;;up;PFLU2549
+iron homeostasis_pyoverdine;;up;PFLU2550
+iron homeostasis_pyoverdine;;up;PFLU3353
+iron homeostasis_pyoverdine;;up;PFLU3977
+iron homeostasis_pyoverdine;;up;PFLU4377
+iron homeostasis_pyoverdine;;up;PFLU4378
+iron homeostasis_pyoverdine;pvdG;up;PFLU4388
+iron homeostasis_pyoverdine;pvdS;up;PFLU4389
+secmet_viscosin;viscC;down;PFLU2552
+secmet_viscosin;viscB;down;PFLU2553
+secmet_viscosin;viscA;down;PFLU4007
+secmet_protease;aprA;down;PFLU3146
+secmet_phospholipase;plc;down;PFLU0848
+secmet_luxRfamreg;viscBCR;down;PFLU2557
+secmet_luxRfamreg;viscAR;down;PFLU4008
+secmet_orphanNRPS;;up;PFLU3217
+secmet_orphanNRPS;;up;PFLU3218
+secmet_orphanNRPS;;up;PFLU3219
+secmet_orphanNRPS;;up;PFLU3220
+secmet_orphanNRPS;;up;PFLU3221
+secmet_orphanNRPS;;up;PFLU3222
+secmet_orphanNRPS;;up;PFLU3223
+secmet_orphanNRPS;;up;PFLU3224
+secmet_orphanNRPS;;up;PFLU3225
+secmet_orphanNRPS;;up;PFLU3226
+secmet_orphanNRPS;;up;PFLU3227
+secmet_orphanNRPS;;up;PFLU3228
+secmet_pectatelyase;;down;PFLU3229
+t2ss;;down;PFLU2415
+t2ss;;down;PFLU2416
+t2ss;;down;PFLU2417
+t2ss;;down;PFLU2418
+t2ss;;down;PFLU2419
+t2ss;;down;PFLU2420
+t2ss;;down;PFLU2421
+t2ss;;down;PFLU2422
+t2ss;;down;PFLU2423
+t2ss;;down;PFLU2424
+t2ss;;down;PFLU2425
+t2ss;;down;PFLU3230
+t2ss;;down;PFLU3231
+t2ss;;down;PFLU3232
+t2ss;;down;PFLU3233
+t2ss;;down;PFLU3234
+t2ss;;down;PFLU3235
+t2ss;;down;PFLU3236
+t2ss;;none;PFLU3237
+t2ss;;down;PFLU3238
+t2ss;;none;PFLU3239
+t2ss;;none;PFLU3240
+t2ss;;up;PFLU4070
+t2ss;;none;PFLU4071
+t2ss;;none;PFLU4072
+t2ss;;none;PFLU4073
+t2ss;;up;PFLU4074
+t2ss;;up;PFLU4075
+t2ss;;none;PFLU4076
+t2ss;;up;PFLU4077
+t2ss;;up;PFLU4078
+t2ss;;none;PFLU4079
+t2ss;;up;PFLU4080
+t3ss;ropE;none;PFLU0708
+t3ss;rspL;up;PFLU0709
+t3ss;;up;PFLU0710
+t3ss;;none;PFLU0711
+t3ss;rspO;none;PFLU0712
+t3ss;rspP;none;PFLU0713
+t3ss;rscQAB;none;PFLU0714
+t3ss;rscR;none;PFLU0715
+t3ss;rscS;none;PFLU0716
+t3ss;rscT;up;PFLU0717
+t3ss;scU;none;PFLU0718
+t3ss;rspV;none;PFLU0719
+t3ss;rspT;none;PFLU0720
+t3ss;rscC;none;PFLU0721
+t3ss;rspG;none;PFLU0722
+t3ss;rspF;none;PFLU0723
+t3ss;rspE;none;PFLU0724
+t3ss;rspD;none;PFLU0725
+t3ss;rscJ;none;PFLU0726
+t3ss;rspB;none;PFLU0727
+t3ss;rspR;none;PFLU0728
+t6ss;;down;PFLU6014
+t6ss;;down;PFLU6015
+t6ss;;down;PFLU6016
+t6ss;;down;PFLU6017
+t6ss;;down;PFLU6018
+t6ss;;down;PFLU6019
+t6ss;;down;PFLU6020
+t6ss;;down;PFLU6021
+t6ss;;down;PFLU6022
+t6ss;;down;PFLU6023
+t6ss;;down;PFLU6024
+t6ss;clpB2;down;PFLU6025
+t6ss;;down;PFLU6026
+biofilm_tolpal;;none;PFLU4906
+biofilm_tolpal;;none;PFLU4907
+biofilm_tolpal;;up;PFLU4908
+biofilm_tolpal;;up;PFLU4909
+biofilm_tolpal;;up;PFLU4910
+biofilm_tolpal;;up;PFLU4911
+biofilm_tolpal;;up;PFLU4912
+bopfilm_wsp;wspA;down;PFLU1219
+bopfilm_wsp;wspB;down;PFLU1220
+bopfilm_wsp;wspC;down;PFLU1221
+bopfilm_wsp;wspD;down;PFLU1222
+bopfilm_wsp;wspE;down;PFLU1223
+bopfilm_wsp;wspF;down;PFLU1224
+bopfilm_wsp;wspR;down;PFLU1225
+biofilm_wss;wssA;up;PFLU0300
+biofilm_wss;wssB;none;PFLU0301
+biofilm_wss;wssC;none;PFLU0302
+biofilm_wss;wssD;none;PFLU0303
+biofilm_wss;wssE;up;PFLU0304
+biofilm_wss;wssF;up;PFLU0305
+biofilm_wss;wssG;up;PFLU0306
+biofilm_wss;wssH;none;PFLU0307
+biofilm_wss;wssI;up;PFLU0308
+biofilm_wss;wssJ;none;PFLU0309
+biofilm_epssynth;algA;down;PFLU0979
+biofilm_epssynth;algF;down;PFLU0980
+biofilm_epssynth;algJ;down;PFLU0981
+biofilm_epssynth;algI;down;PFLU0982
+biofilm_epssynth;algL;down;PFLU0983
+biofilm_epssynth;algX;down;PFLU0984
+biofilm_epssynth;algG;down;PFLU0985
+biofilm_epssynth;algE;down;PFLU0986
+biofilm_epssynth;algK;down;PFLU0987
+biofilm_epssynth;;down;PFLU0988
+biofilm_epssynth;;down;PFLU0989
+biofilm_epssynth;algD;down;PFLU0990
+biofilm_epssynth;;down;PFLU2071
+biofilm_epssynth;;down;PFLU2072
+biofilm_epssynth;;down;PFLU2073
+biofilm_epssynth;;down;PFLU2074
+biofilm_epssynth;;down;PFLU2075
+biofilm_epssynth;;down;PFLU2076
+biofilm_epssynth;;down;PFLU2077
+biofilm_epssynth;;down;PFLU2078
+biofilm_epssynth;;down;PFLU2079
+biofilm_epssynth;;down;PFLU2080
+biofilm_epssynth;;down;PFLU2081
+biofilm_epssynth;;down;PFLU2082
+biofilm_epssynth;;down;PFLU0143
+biofilm_epssynth;;down;PFLU0144
+biofilm_epssynth;;down;PFLU0145
+biofilm_epssynth;;down;PFLU0146
+motilit_flagellum;;down;PFLU4437
+motilit_flagellum;;down;PFLU4438
+motilit_flagellum;;down;PFLU4439
+motilit_flagellum;;down;PFLU4440
+motilit_flagellum;;down;PFLU4441
+motilit_flagellum;;down;PFLU4442
+motilit_flagellum;;down;PFLU4443
+motilit_flagellum;;down;PFLU4444
+motilit_flagellum;;down;PFLU4445
+motilit_flagellum;;down;PFLU4446
+motilit_flagellum;;down;PFLU4447
+motilit_flagellum;;down;PFLU4448
+motilit_flagellum;;down;PFLU4449
+motilit_flagellum;;down;PFLU4450
+motilit_flagellum;;down;PFLU4451
+motilit_flagellum;;down;PFLU4452
+motilit_flagellum;;down;PFLU4453
+motilit_flagellum;;down;PFLU4454
+motilit_flagellum;;down;PFLU4455
+motilit_flagellum;;down;PFLU4456
+motilit_flagellum;;down;PFLU4728
+motilit_flagellum;;down;PFLU4729
+motilit_flagellum;;down;PFLU4730
+motilit_flagellum;;down;PFLU4731
+motility_twitching;pilT;down;PFLU5762
+motility_t4p;;down;PFLU0639
+motility_t4p;;down;PFLU0641
+motility_t4p;;down;PFLU0642
+motility_t4p;;down;PFLU0643
+motility_t4p;;down;PFLU0644
+motility_t4p;;down;PFLU0645
+motility_t4p;;down;PFLU0646
+motility_t4p;;down;PFLU0647
+motility_t4p;;down;PFLU0648
+motility_t4p;;down;PFLU0649
+motility_t4p;;down;PFLU0650
+motility_t4p;;down;PFLU0651
+colonization;panB;none;PFLU5241
+colonization;panC;none;PFLU5242
+nitrogenassimilation;;down;PFLU4607
+nitrogenassimilation;;down;PFLU4608
+nitrogenassimilation;;down;PFLU4609
+nitrogenassimilation;;down;PFLU4610
+nitrogenassimilation;;down;PFLU4611
+cellenvelope;;down;PFLU2411
+cellenvelope;;down;PFLU2414
+cellenvelope;;down;PFLU2918
+nutrientacquisition;;up;PFLU5566
+regulation;;down;PFLU1046
+regulation;;down;PFLU1849
+regulation;;up;PFLU1850
+stressanddetox;;up;PFLU2749
+stressanddetox;;up;PFLU2750
+stressanddetox;;up;PFLU2751
+stressanddetox;;up;PFLU2752
+transportproteins;;down;PFLU3707
+transportproteins;;down;PFLU4925
+cofactor;;down;PFLU4624
+energymet;;up;PFLU5753
+unknown;;down;PFLU5666

@@ -1,0 +1,13 @@
+{
+	"n_targets": 10725,
+	"n_bootstraps": 100,
+	"n_processed": 8384829,
+	"n_pseudoaligned": 7342257,
+	"n_unique": 7262983,
+	"p_pseudoaligned": 87.6,
+	"p_unique": 86.6,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Fri Jan 20 13:41:38 2023",
+	"call": "kallisto quant -i transcriptomes/transcripts.idx -o kallisto_out/B2 -b 100 -t 20 filtered/B2_1.fq.gz filtered/B2_2.fq.gz"
+}

@@ -1,0 +1,251 @@
+pathway_general;pathway_specific;locus;gene;product;fc
+Gac;GacA/GacS two-component system;PFLU3777;gacS;membrane bound sensor kinase;-1.3
+Gac;GacA/GacS two-component system;PFLU2189;gacA;response regulator;1.1
+Gac;Small RNA binding proteins;PFLU4165;csrA1/RsmE;carbon storage regulator;1.2
+Gac;Small RNA binding proteins;PFLU4324;csrA2;carbon storage regulator;-1.1
+Gac;Small RNA binding proteins;PFLU4746;RsmA;carbon storage regulator homolog;1.1
+Stress responses;Sod and catalase;PFLU0873;;conserved hypothetical protein;116.2
+Stress responses;Sod and catalase;PFLU0874;fumC1;fumarate hydratase class II;164.2
+Stress responses;Sod and catalase;PFLU0875;;conserved hypothetical protein;189.5
+Stress responses;Sod and catalase;PFLU0876;sodA;superoxide dismutase [Mn];300.6
+Stress responses;Sod and catalase;PFLU0877;;putative transport-related membrane protein;87.4
+Stress responses;Sod and catalase;PFLU4855;sodB;putative superoxide dismutase;-5.9
+Stress responses;Sod and catalase;PFLU0071;katE;catalase HPII;-18.4
+Stress responses;rpoS regulator;PFLU1302;rpoS;RNA polymerase sigma factor;-6.1
+Iron homeostasis;Iron homeostasis;PFLU2787;;heme uptake regulator;8.1
+Iron homeostasis;Iron homeostasis;PFLU2788;;heme uptake transmembrane sensor;7.1
+Iron homeostasis;Iron homeostasis;PFLU4968;;putative exported heme receptor protein;112.1
+Iron homeostasis;Iron homeostasis;PFLU5136;;protoheme IX farnesyltransferase;4.4
+Iron homeostasis;Iron homeostasis;PFLU5227;hmuV;hemin ABC transporter, ATP-binding protein;9.5
+Iron homeostasis;Iron homeostasis;PFLU5228;;transmembrane permease component of haem ABC transporter;10.3
+Iron homeostasis;Iron homeostasis;PFLU5229;;putative hemin transport system, substrate-binding protein;6.1
+Iron homeostasis;TonB-dependent;PFLU0295;;purative iron-transport related exported protein;7.2
+Iron homeostasis;TonB-dependent;PFLU1022;;putative ferric siderophore receptor;9.7
+Iron homeostasis;TonB-dependent;PFLU1040;;iron (III) dicitrate transport protein precursor;19.6
+Iron homeostasis;TonB-dependent;PFLU1405;;putative TonB-dependent receptor protein;4
+Iron homeostasis;TonB-dependent;PFLU2545;;ferripyoverdine receptor precursor;19.2
+Iron homeostasis;TonB-dependent;PFLU2598;;TonB-dependent siderophore receptor;4.3
+Iron homeostasis;TonB-dependent;PFLU3378;;putative ferric alcaligin siderophore receptor;31.6
+Iron homeostasis;TonB-dependent;PFLU4093;;putative ferric siderophore receptor;8.2
+Iron homeostasis;TonB-dependent;PFLU4968;;putative exported heme receptor protein;112.1
+Iron homeostasis;TonB-dependent;PFLU5361;;putative TonB-dependent receptor protein;12.6
+Iron homeostasis;TonB-dependent;PFLU5629;;putative TonB-dependent membrane protein;24
+Iron homeostasis;TonB-dependent;PFLU6132;;putative ferric siderophore receptor;7.8
+Iron homeostasis;Electron transport;PFLU5137;;cytochrome C oxidase (ubiquinol oxidase) subunit IV;5
+Iron homeostasis;Electron transport;PFLU5138;;cytochrome C oxidase (ubiquinol oxidase) subunit III;5.1
+Iron homeostasis;Electron transport;PFLU5139;;cytochrome C oxidase (ubiquinol oxidase) subunit I;4.1
+Iron homeostasis;Pyoverdine;PFLU2042;;putative ABC transport system, membrane protein;4.2
+Iron homeostasis;Pyoverdine;PFLU2046;;putative exported protein;5.2
+Iron homeostasis;Pyoverdine;PFLU2543;pvdI;pyoverdine synthetase I;5.4
+Iron homeostasis;Pyoverdine;PFLU2544;pvdJ;pyoverdine synthetase II;7.5
+Iron homeostasis;Pyoverdine;PFLU2545;fpvA;ferripyoverdine receptor precursor;19.2
+Iron homeostasis;Pyoverdine;PFLU2546;;putative ABC transporter ATP-binding protein;8.9
+Iron homeostasis;Pyoverdine;PFLU2547;;putative pyoverdine synthetase F;14.7
+Iron homeostasis;Pyoverdine;PFLU2548;;conserved hypothetical protein;6.2
+Iron homeostasis;Pyoverdine;PFLU2549;;putative aminotransferase;9
+Iron homeostasis;Pyoverdine;PFLU2550;;putative dipeptidase;8.3
+Iron homeostasis;Pyoverdine;PFLU3353;;putative amidase;9.3
+Iron homeostasis;Pyoverdine;PFLU3977;;putative periplasmic protein;4.4
+Iron homeostasis;Pyoverdine;PFLU4377;;conserved hypothetical protein;50
+Iron homeostasis;Pyoverdine;PFLU4378;;diaminobutyrate-2-oxoglutarate aminotransferase;13.1
+Iron homeostasis;Pyoverdine;PFLU4388;pvdG;putative thioesterase;4.3
+Iron homeostasis;Pyoverdine;PFLU4389;pvdS;putative RNA polymerase sigma factor;8.2
+Secondary metabolites;Viscosin production;PFLU2552;viscC;non-ribosomal peptide synthetase;-56.1
+Secondary metabolites;Viscosin production;PFLU2553;viscB;non-ribosomal peptide synthetase;-54.8
+Secondary metabolites;Viscosin production;PFLU4007;viscA;non-ribosomal peptide synthetase;-44
+Secondary metabolites;Protease production;PFLU3146;aprA;metalloprotease;-220.5
+Secondary metabolites;Phospholipase C;PFLU0848;plc;phosphatidylcholine-hydrolyzing phospholipase C;-10.1
+Secondary metabolites;LuxR-family regulator;PFLU2557;;LuxR-family regulatory protein;-9.1
+Secondary metabolites;LuxR-family regulator;PFLU4008;;LuxR-family regulatory protein;-181.2
+Secondary metabolites;Orphan NRPS operon;PFLU3217;;putative diaminobutyrate--2-oxoglutarate aminotransferase;5.9
+Secondary metabolites;Orphan NRPS operon;PFLU3218;;putative TonB-dependent outer membrane receptor;12.1
+Secondary metabolites;Orphan NRPS operon;PFLU3219;;SyrP-like conserved hypothetical protein;7.1
+Secondary metabolites;Orphan NRPS operon;PFLU3220;;putative non-ribosomal antibiotic-related peptide synthase;2.9
+Secondary metabolites;Orphan NRPS operon;PFLU3221;;putative SyrP-like protein;4.8
+Secondary metabolites;Orphan NRPS operon;PFLU3222;;putative non-ribosomal peptide synthetase;4
+Secondary metabolites;Orphan NRPS operon;PFLU3223;;putative non-ribosomal peptide synthetase;4.6
+Secondary metabolites;Orphan NRPS operon;PFLU3224;;putative non-ribosomal peptide synthetase;6.4
+Secondary metabolites;Orphan NRPS operon;PFLU3225;;putative non-ribosomal peptide synthetase;5.3
+Secondary metabolites;Orphan NRPS operon;PFLU3226;;ABC transporter ATP-binding protein;9.8
+Secondary metabolites;Orphan NRPS operon;PFLU3227;;putative transport-related protein;3.7
+Secondary metabolites;Orphan NRPS operon;PFLU3228;;putative membrane transport protein ATP-binding component;1.9
+Secondary metabolites;Pectate lyase;PFLU3229;;putative secreted pectate lyase;-55.3
+Secretion systems;Type II secretion system;PFLU2415;;putative type II secretion pathway protein J/W;-2.9
+Secretion systems;Type II secretion system;PFLU2416;;putative type II secretion pathway protein H;-2.7
+Secretion systems;Type II secretion system;PFLU2417;;putative type II secretion system membrane protein C;-3.6
+Secretion systems;Type II secretion system;PFLU2418;;putative type II secretion system, exported protein I;-2.7
+Secretion systems;Type II secretion system;PFLU2419;;putative type II secretion pathway protein G precursor;-12.6
+Secretion systems;Type II secretion system;PFLU2420;;putative type II secretion system membrane protein;-5.9
+Secretion systems;Type II secretion system;PFLU2421;;putative type II secretion system protein L;-3.4
+Secretion systems;Type II secretion system;PFLU2422;;putative type II secretion pathway protein M;-1.8
+Secretion systems;Type II secretion system;PFLU2423;;putative type II secretion pathway protein D precursor;-16.3
+Secretion systems;Type II secretion system;PFLU2424;;putative type II secretion pathway protein E;-2.5
+Secretion systems;Type II secretion system;PFLU2425;;putative type II secretion system protein F;-2.8
+Secretion systems;Type II secretion system;PFLU3230;;general secretion pathway protein F/S;-1.8
+Secretion systems;Type II secretion system;PFLU3231;;general secretion pathway protein E/R;-1.8
+Secretion systems;Type II secretion system;PFLU3232;;general secretion pathway protein D/Q;-3.3
+Secretion systems;Type II secretion system;PFLU3233;;putative general secretory pathway protein;-2
+Secretion systems;Type II secretion system;PFLU3234;;putative general secretory pathway protein L/Y;-3.2
+Secretion systems;Type II secretion system;PFLU3235;;general secretion pathway protein K/X;-2.8
+Secretion systems;Type II secretion system;PFLU3236;;general secretion pathway protein G/T precursor;-4.7
+Secretion systems;Type II secretion system;PFLU3237;;general secretory pathway protein I/V;-1.4
+Secretion systems;Type II secretion system;PFLU3238;;putative general secretory pathway protein C;-1.9
+Secretion systems;Type II secretion system;PFLU3239;;putative general secretory pathway protein H/U;-1.4
+Secretion systems;Type II secretion system;PFLU3240;;putative general secretion pathway protein J/W;-1
+Secretion systems;Type II secretion system;PFLU4070;;general secretion pathway protein D;5.8
+Secretion systems;Type II secretion system;PFLU4071;;putative general secretion pathway protein N;1.2
+Secretion systems;Type II secretion system;PFLU4072;;putative general secretion pathway protein M;1.4
+Secretion systems;Type II secretion system;PFLU4073;;putative general secretion pathway protein L;1.1
+Secretion systems;Type II secretion system;PFLU4074;;putative general secretion pathway protein K;1.8
+Secretion systems;Type II secretion system;PFLU4075;;putative general secretion pathway protein J precursor;3.1
+Secretion systems;Type II secretion system;PFLU4076;;putative general secretion pathway protein I precursor;1.2
+Secretion systems;Type II secretion system;PFLU4077;;putative general secretion pathway protein H precursor;1.6
+Secretion systems;Type II secretion system;PFLU4078;;putative export protein G for general secretion pathway (GSP) pilin-like;8.1
+Secretion systems;Type II secretion system;PFLU4079;;putative general secretion pathway protein F;1.4
+Secretion systems;Type II secretion system;PFLU4080;;general secretion pathway protein;3.2
+Secretion systems;Type III secretion system;PFLU0708;ropE;putative type III secreted protein;1.3
+Secretion systems;Type III secretion system;PFLU0709;rspL;sigma factor;1.9
+Secretion systems;Type III secretion system;PFLU0710;;hypothetical protein (pseudogene);2.6
+Secretion systems;Type III secretion system;PFLU0711;;putative type III ATP synthase (pseudogene);1.1
+Secretion systems;Type III secretion system;PFLU0712;rspO;nodulation-related hypothetical protein;1.3
+Secretion systems;Type III secretion system;PFLU0713;rspP;nodulation-related hypothetical protein;-1.1
+Secretion systems;Type III secretion system;PFLU0714;rscQAB;putative type III secretion protein;1.2
+Secretion systems;Type III secretion system;PFLU0715;rscR;putative hairpin type III secretion protein;1.4
+Secretion systems;Type III secretion system;PFLU0716;rscS;putative type III secretion membrane protein;1
+Secretion systems;Type III secretion system;PFLU0717;rscT;putative type III secretion protein;1.8
+Secretion systems;Type III secretion system;PFLU0718;rscU;putative type III secretion protein;1.3
+Secretion systems;Type III secretion system;PFLU0719;rspV;hypothetical protein;1.2
+Secretion systems;Type III secretion system;PFLU0720;rspT;putative type III secretion lipoprotein;-1.1
+Secretion systems;Type III secretion system;PFLU0721;rscC;putative type III secretion protein;1.2
+Secretion systems;Type III secretion system;PFLU0722;rspG;hypothetical protein;-1
+Secretion systems;Type III secretion system;PFLU0723;rspF;hypothetical protein;-1.2
+Secretion systems;Type III secretion system;PFLU0724;rspE;putative type III secretion protein;-1.1
+Secretion systems;Type III secretion system;PFLU0725;rspD;putative type III secretion protein;1.3
+Secretion systems;Type III secretion system;PFLU0726;rscJ;putative type III secretion protein;-1.1
+Secretion systems;Type III secretion system;PFLU0727;rspB;putative type III secretion protein;-1.2
+Secretion systems;Type III secretion system;PFLU0728;rspR;putative type III secretion system, regulatory protein;-1.2
+Secretion systems;Type VI secretion system;PFLU6014;;putative membrane protein;-4.5
+Secretion systems;Type VI secretion system;PFLU6015;;conserved hypothetical protein;-11.6
+Secretion systems;Type VI secretion system;PFLU6016;;putative lipoprotein;-7.7
+Secretion systems;Type VI secretion system;PFLU6017;;conserved hypothetical protein;-5.8
+Secretion systems;Type VI secretion system;PFLU6018;;conserved hypothetical protein;-5.1
+Secretion systems;Type VI secretion system;PFLU6019;;conserved hypothetical protein;-24.3
+Secretion systems;Type VI secretion system;PFLU6020;;conserved hypothetical protein;-25.2
+Secretion systems;Type VI secretion system;PFLU6021;;conserved hypothetical protein;-27.6
+Secretion systems;Type VI secretion system;PFLU6022;;conserved hypothetical protein;-4.5
+Secretion systems;Type VI secretion system;PFLU6023;;conserved hypothetical protein;-3.4
+Secretion systems;Type VI secretion system;PFLU6024;;conserved hypothetical protein;-3
+Secretion systems;Type VI secretion system;PFLU6025;clpB2;chaperone;-7.6
+Secretion systems;Type VI secretion system;PFLU6026;;conserved hypothetical protein;-7.1
+Biofilm;tol-pal cluster;PFLU4906;;putative exported protein;1.2
+Biofilm;tol-pal cluster;PFLU4907;;putative OmpA family lipoprotein;0
+Biofilm;tol-pal cluster;PFLU4908;;TolB colicin import protein;2.7
+Biofilm;tol-pal cluster;PFLU4909;;TolA colicin import membrane protein;2.8
+Biofilm;tol-pal cluster;PFLU4910;;putative transport-related membrane protein;2.9
+Biofilm;tol-pal cluster;PFLU4911;;TolQ protein;4.2
+Biofilm;tol-pal cluster;PFLU4912;;putative thioesterase;3.2
+Biofilm;wsp cluster;PFLU1219;wspA;putative methyl-accepting chemotaxis protein;-1.6
+Biofilm;wsp cluster;PFLU1220;wspB;putative chemotaxis-related protein;-2
+Biofilm;wsp cluster;PFLU1221;wspC;putative chemotaxis-related methyltransferase;-1.7
+Biofilm;wsp cluster;PFLU1222;wspD;putative chemotaxis-related protein;-2
+Biofilm;wsp cluster;PFLU1223;wspE;putative chemotaxis-related two-component system, sensor kinase;-1.7
+Biofilm;wsp cluster;PFLU1224;wspF;putative chemotaxis-related two-component system, response regulator;-2
+Biofilm;wsp cluster;PFLU1225;wspR;putative chemotaxis-related, two component system response regulator;-2.4
+Biofilm;wss cluster;PFLU0300;wssA;putative cell morphology-related protein;1.7
+Biofilm;wss cluster;PFLU0301;wssB;cellulose synthase catalytic subunit;1.4
+Biofilm;wss cluster;PFLU0302;wssC;cyclic di-GMP binding protein;1.2
+Biofilm;wss cluster;PFLU0303;wssD;endoglucanase precursor;1.2
+Biofilm;wss cluster;PFLU0304;wssE;cellulose synthase operon protein C precursor;2
+Biofilm;wss cluster;PFLU0305;wssF;cell morphology-related protein;3.2
+Biofilm;wss cluster;PFLU0306;wssG;cell morphology-related protein;2.2
+Biofilm;wss cluster;PFLU0307;wssH;cell morphology-related protein;1.4
+Biofilm;wss cluster;PFLU0308;wssI;cell morphology-related protein;2.9
+Biofilm;wss cluster;PFLU0309;wssJ;cell morphology-related protein;1.1
+Biofilm;Exopolysaccharide biosynthesis;PFLU0979;algA;alginate biosynthesis protein;-7.2
+Biofilm;Exopolysaccharide biosynthesis;PFLU0980;algF;alginate biosynthesis protein precursor;-3.1
+Biofilm;Exopolysaccharide biosynthesis;PFLU0981;algJ;alginate biosynthesis protein precursor;-2.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU0982;algI;probable poly(beta-D-mannuronate) O-acetylase;-3.3
+Biofilm;Exopolysaccharide biosynthesis;PFLU0983;algL;alginate lyase precursor;-2.7
+Biofilm;Exopolysaccharide biosynthesis;PFLU0984;algX;alginate biosynthesis protein precursor;-6.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU0985;algG;poly(beta-D-mannuronate) C5 epimerase precursor;-6.2
+Biofilm;Exopolysaccharide biosynthesis;PFLU0986;algE;alginate production protein precursor;-7.4
+Biofilm;Exopolysaccharide biosynthesis;PFLU0987;algK;alginate biosynthesis protein precursor;-8.8
+Biofilm;Exopolysaccharide biosynthesis;PFLU0988;;putative alginate biosynthesis-related protein;-7.1
+Biofilm;Exopolysaccharide biosynthesis;PFLU0989;;putative alginate biosynthesis-related protein;-3.9
+Biofilm;Exopolysaccharide biosynthesis;PFLU0990;algD;GDP-mannose 6-dehydrogenase;-39.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU2071;;putative membrane protein;-4.9
+Biofilm;Exopolysaccharide biosynthesis;PFLU2072;;putative membrane protein;-3
+Biofilm;Exopolysaccharide biosynthesis;PFLU2073;;putative membrane protein;-4.6
+Biofilm;Exopolysaccharide biosynthesis;PFLU2074;;putative transferase;-3.4
+Biofilm;Exopolysaccharide biosynthesis;PFLU2075;;conserved hypothetical protein;-37.4
+Biofilm;Exopolysaccharide biosynthesis;PFLU2076;;putative exported protein;-25.8
+Biofilm;Exopolysaccharide biosynthesis;PFLU2077;;putative transferase;-12.2
+Biofilm;Exopolysaccharide biosynthesis;PFLU2078;;conserved hypothetical protein;-43.7
+Biofilm;Exopolysaccharide biosynthesis;PFLU2079;;putative polysaccharide exported-related lipoprotein;-13.8
+Biofilm;Exopolysaccharide biosynthesis;PFLU2080;;putative lipopolysaccharide biosynthesis glycosyl transferase;-14.3
+Biofilm;Exopolysaccharide biosynthesis;PFLU2081;;putative nucelotidyl transferase;-27.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU2082;;putative glycosyltransferase;-11.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU0143;;conserved hypothetical protein;-9.8
+Biofilm;Exopolysaccharide biosynthesis;PFLU0144;;putative lipoprotein;-17.5
+Biofilm;Exopolysaccharide biosynthesis;PFLU0145;;putative membrane protein;-15.8
+Biofilm;Exopolysaccharide biosynthesis;PFLU0146;;conserved hypothetical membrane protein;-5.2
+Motility;Flagellar biosynthesis;PFLU4437;;flagellar assembly protein;-4
+Motility;Flagellar biosynthesis;PFLU4438;;flagellar motor switch protein;-4.3
+Motility;Flagellar biosynthesis;PFLU4439;;flagellar M-ring protein;-4.4
+Motility;Flagellar biosynthesis;PFLU4440;;flagellar biosynthesis basal-body component;-7.3
+Motility;Flagellar biosynthesis;PFLU4441;;two-component response regulator;-4
+Motility;Flagellar biosynthesis;PFLU4442;;putative two-component system, sensor kinase;-6.2
+Motility;Flagellar biosynthesis;PFLU4443;;putative two-component system, response regulator nitrogen regulation protein NR(I);-2.1
+Motility;Flagellar biosynthesis;PFLU4444;;conserved hypothetical protein;-12.8
+Motility;Flagellar biosynthesis;PFLU4445;;flagellar protein FliS;-17.9
+Motility;Flagellar biosynthesis;PFLU4446;;putative flagellar hook associated protein (FliD);-11.8
+Motility;Flagellar biosynthesis;PFLU4447;;putative flagelling-related protein;-69.8
+Motility;Flagellar biosynthesis;PFLU4448;;flagellin;-118.9
+Motility;Flagellar biosynthesis;PFLU4449;;putative keto/oxo acyl-ACP synthase;-1.7
+Motility;Flagellar biosynthesis;PFLU4450;;putative flagellar hook-associated protein 3;-6.8
+Motility;Flagellar biosynthesis;PFLU4451;;putative flagellar hook-associated protein;-7.2
+Motility;Flagellar biosynthesis;PFLU4452;;peptidoglycan hydrolase;-5.3
+Motility;Flagellar biosynthesis;PFLU4453;;flagellar P-ring protein precuror;-5.4
+Motility;Flagellar biosynthesis;PFLU4454;;flagellar L-ring protein;-10.2
+Motility;Flagellar biosynthesis;PFLU4455;;flagellar basal-body rod protein;-11.4
+Motility;Flagellar biosynthesis;PFLU4456;;flagellar basal-body rod protein;-9.8
+Motility;Flagellar biosynthesis;PFLU4728;;putative flagellar hook protein;-12.7
+Motility;Flagellar biosynthesis;PFLU4729;;flagellar biosynthesis, initiation of hook assembly;-10.2
+Motility;Flagellar biosynthesis;PFLU4730;;putative flagellar basal-body rod protein;-8.9
+Motility;Flagellar biosynthesis;PFLU4731;;putative flagellar basal-body rod protein;-7.5
+Motility;Twitching motility;PFLU5762;pilT;twitching mobility protein;-4.6
+Motility;Pilus IV associated gene cluster;PFLU0639;;putative membrane protein;-5.4
+Motility;Pilus IV associated gene cluster;PFLU0641;;putative exported protein;-16.7
+Motility;Pilus IV associated gene cluster;PFLU0642;;putative lipoprotein;-17.1
+Motility;Pilus IV associated gene cluster;PFLU0643;;putative membrane protein;-3.8
+Motility;Pilus IV associated gene cluster;PFLU0644;;putative membrane protein;-6.2
+Motility;Pilus IV associated gene cluster;PFLU0645;;putative type II secretion system protein;-10.9
+Motility;Pilus IV associated gene cluster;PFLU0646;;conserved hypothetical protein;-3.4
+Motility;Pilus IV associated gene cluster;PFLU0647;;putative type II secretion system protein;-3.3
+Motility;Pilus IV associated gene cluster;PFLU0648;;putative membrane protein;-7.9
+Motility;Pilus IV associated gene cluster;PFLU0649;;putative membrane protein;-615.7
+Motility;Pilus IV associated gene cluster;PFLU0650;;putative response regulator;-214.9
+Motility;Pilus IV associated gene cluster;PFLU0651;;putative exported protein;-18.6
+Colonization;Pantothenate biosynthesis;PFLU5241;panB;3-methyl-2-oxobutanoate hydroxymethyltransferase;1.6
+Colonization;Pantothenate biosynthesis;PFLU5242;panC;pantoate-beta-alanine ligase;1.2
+Other genes/clusters;Nitrate/nitrite assimilation;PFLU4607;;nitrate-binding proteint;-5.3
+Other genes/clusters;Nitrate/nitrite assimilation;PFLU4608;;putative response regulator protein;-5.5
+Other genes/clusters;Nitrate/nitrite assimilation;PFLU4609;;putative nitrate transporter;-40.2
+Other genes/clusters;Nitrate/nitrite assimilation;PFLU4610;;putative protein kinase;-22.3
+Other genes/clusters;Nitrate/nitrite assimilation;PFLU4611;;putative uroporphyrin-III c-methyltransferase;-13.6
+Other genes/clusters;Cell envelope;PFLU2411;;putative exported protein;-7.3
+Other genes/clusters;Cell envelope;PFLU2414;;putative iron siderophore-related protein;-20.1
+Other genes/clusters;Cell envelope;PFLU2918;;putative lipoprotein;19.2
+Other genes/clusters;Nutrient acquisition and scavenging;PFLU5566;;putative ABC transport system, membrane protein;89.1
+Other genes/clusters;Regulation;PFLU1046;;putative RNA polymerase sigma factor;7.5
+Other genes/clusters;Regulation;PFLU1849;;putative two-component system, sensor kinase;6.5
+Other genes/clusters;Regulation;PFLU1850;;putative two-component system, response regulator;5.8
+Other genes/clusters;Stress and detoxification;PFLU2749;;multidrug efflux system inner membrane protein;11.8
+Other genes/clusters;Stress and detoxification;PFLU2750;;multidrug efflux system transmembrane protein;6.3
+Other genes/clusters;Stress and detoxification;PFLU2751;;multidrug efflux system transmembrane protein;6.9
+Other genes/clusters;Stress and detoxification;PFLU2752;;putative outer membrane efflux protein;5.9
+Other genes/clusters;Transport and binding proteins;PFLU3703;;conserved hypothetical protein;-9
+Other genes/clusters;Transport and binding proteins;PFLU4925;;putative family S43 non-peptidase homologue;-7.5
+Other genes/clusters;Biosynthesis of cofactors, prosthetic groups, and carriers;PFLU4624;;putative sulfurylase;-5.5
+Other genes/clusters;Energy metabolism;PFLU5743;;putative decarboxylase;5.1
+Other genes/clusters;Unknown function;PFLU5666;;putative dipeptidase;-13.8

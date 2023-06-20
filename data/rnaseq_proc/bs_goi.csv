@@ -1,0 +1,245 @@
+gene.x;pathway
+dhbA;Iron Acquisition
+dhbB;Iron Acquisition
+dhbC;Iron Acquisition
+dhbE;Iron Acquisition
+dhbF;Iron Acquisition
+ybdZ;Iron Acquisition
+yvmA;Iron Acquisition
+yvmB;Iron Acquisition
+yvmC;Iron Acquisition
+cypX;Iron Acquisition
+feuA;Iron Acquisition
+feuB;Iron Acquisition
+feuC;Iron Acquisition
+yusV;Iron Acquisition
+besA;Iron Acquisition
+glpD;Metabolism
+glpF;Metabolism
+glpK;Metabolism
+tpiA;Metabolism
+argB;Metabolism
+argC;Metabolism
+argD;Metabolism
+argJ;Metabolism
+spsA;Metabolism
+spsB;Metabolism
+spsC;Metabolism
+spsD;Metabolism
+spsE;Metabolism
+spsF;Metabolism
+spsG;Metabolism
+spsI;Metabolism
+spsJ;Metabolism
+spsK;Metabolism
+spsL;Metabolism
+glnM;ABC Transporter
+glnP;ABC Transporter
+glnH;ABC Transporter
+glnQ;ABC Transporter
+glnT;ABC Transporter
+gltP;ABC Transporter
+gltT;ABC Transporter
+glnA;ABC Transporter
+gltA;ABC Transporter
+gltB;ABC Transporter
+gudB;ABC Transporter
+rocG;ABC Transporter
+glsA;ABC Transporter
+opuCA;ABC Transporter
+opuCB;ABC Transporter
+opuCC;ABC Transporter
+opuCD;ABC Transporter
+opuBA;ABC Transporter
+opuBB;ABC Transporter
+opuBC;ABC Transporter
+opuBD;ABC Transporter
+dppA;ABC Transporter
+dppB;ABC Transporter
+dppC;ABC Transporter
+dppD;ABC Transporter
+dppE;ABC Transporter
+ykfD;ABC Transporter
+mntA;ABC Transporter
+mntB;ABC Transporter
+mntC;ABC Transporter
+mntD;ABC Transporter
+mntH;ABC Transporter
+mntR;ABC Transporter
+citM;ABC Transporter
+epsA;Biofilm
+epsB;Biofilm
+epsC;Biofilm
+epsD;Biofilm
+epsE;Biofilm
+epsF;Biofilm
+epsG;Biofilm
+epsH;Biofilm
+epsI;Biofilm
+epsJ;Biofilm
+epsK;Biofilm
+epsL;Biofilm
+epsM;Biofilm
+epsN;Biofilm
+epsO;Biofilm
+tapA;Biofilm
+sipW;Biofilm
+tasA;Biofilm
+abrB;Biofilm
+spo0A;Biofilm
+spo0F;Biofilm
+sinI;Biofilm
+sinR;Biofilm
+slrR;Biofilm
+spo0B;Sporulation
+spo0E;Sporulation
+spo0M;Sporulation
+spoIIAB;Sporulation
+spoIIB;Sporulation
+spoIID;Sporulation
+spoIIE;Sporulation
+spoIIGA;Sporulation
+spoIIIAB;Sporulation
+spoIIIAD;Sporulation
+spoIIIAE;Sporulation
+spoIIIAF;Sporulation
+spoIIIAG;Sporulation
+spoIIIAH;Sporulation
+spoIIID;Sporulation
+spoIIIE;Sporulation
+spoIIIJ;Sporulation
+spoIIIAA;Sporulation
+spoIIM;Sporulation
+spoIIP;Sporulation
+spoIIQ;Sporulation
+spoIIR;Sporulation
+spoIISA;Sporulation
+spoIISB;Sporulation
+spoIIAA;Sporulation
+spoIVA;Sporulation
+spoIVB;Sporulation
+spoIVCA;Sporulation
+spoIVFA;Sporulation
+spoIVFB;Sporulation
+spoVAB;Sporulation
+spoVAC;Sporulation
+spoVAD;Sporulation
+spoVAEA;Sporulation
+spoVAEB;Sporulation
+spoVAF;Sporulation
+spoVB;Sporulation
+spoVD;Sporulation
+spoVE;Sporulation
+spoVFA;Sporulation
+spoVFB;Sporulation
+spoVG;Sporulation
+spoVID;Sporulation
+spoVIF;Sporulation
+spoVK;Sporulation
+spoVM;Sporulation
+spoVR;Sporulation
+spoVS;Sporulation
+spoVT;Sporulation
+spoVAA;Sporulation
+comA;Competence
+comC;Competence
+comEA;Competence
+comEB;Competence
+comEC;Competence
+comER;Competence
+comFA;Competence
+comFB;Competence
+comFC;Competence
+comGA;Competence
+comGB;Competence
+comGC;Competence
+comGD;Competence
+comGF;Competence
+comGG;Competence
+comK;Competence
+comN;Competence
+comP;Competence
+comQ;Competence
+comX;Competence
+comZ;Competence
+sigA;Sigma factors
+sigB;Sigma factors
+sigD;Sigma factors
+sigE;Sigma factors
+sigF;Sigma factors
+sigG;Sigma factors
+sigH;Sigma factors
+sigI;Sigma factors
+sigKC;Sigma factors
+sigKN;Sigma factors
+sigL;Sigma factors
+sigM;Sigma factors
+sigO;Sigma factors
+sigV;Sigma factors
+sigW;Sigma factors
+sigX;Sigma factors
+sigY;Sigma factors
+sigZ;Sigma factors
+kinA;Kinase
+kinB;Kinase
+kinC;Kinase
+kinD;Kinase
+kinE;Kinase
+srfAA;Secondary metabolite
+srfAC;Secondary metabolite
+srfAD;Secondary metabolite
+pksA;Secondary metabolite
+pksB;Secondary metabolite
+pksC;Secondary metabolite
+pksD;Secondary metabolite
+pksE;Secondary metabolite
+pksF;Secondary metabolite
+pksG;Secondary metabolite
+pksH;Secondary metabolite
+pksI;Secondary metabolite
+pksJ;Secondary metabolite
+pksL;Secondary metabolite
+pksM;Secondary metabolite
+pksN;Secondary metabolite
+pksR;Secondary metabolite
+pksS;Secondary metabolite
+bacA;Secondary metabolite
+bacB;Secondary metabolite
+bacC;Secondary metabolite
+bacD;Secondary metabolite
+bacE;Secondary metabolite
+sboA;Secondary metabolite
+sboX;Secondary metabolite
+sunA;Secondary metabolite
+sunI;Secondary metabolite
+sunS;Secondary metabolite
+sunT;Secondary metabolite
+bdbA;Secondary metabolite
+bdbB;Secondary metabolite
+perR;Peroxisome
+mrgA;Peroxisome
+katA;Peroxisome
+hemA;Heme biosynthesis
+hemAT;Heme biosynthesis
+hemB;Heme biosynthesis
+hemC;Heme biosynthesis
+hemD;Heme biosynthesis
+hemD;Heme biosynthesis
+hemE;Heme biosynthesis
+hemH;Heme biosynthesis
+hemL;Heme biosynthesis
+hemN;Heme biosynthesis
+hemX;Heme biosynthesis
+hemY;Heme biosynthesis
+hemZ;Heme biosynthesis
+yetO;Cytochrome P450
+bioI;Cytochrome P450
+cypC;Cytochrome P450
+yjiB;Cytochrome P450
+cypA;Cytochrome P450
+cypB;Cytochrome P450
+resA;Cytochrome activation
+resB;Cytochrome activation
+resC;Cytochrome activation
+bdbD;Cytochrome activation
+ccdA;Cytochrome activation

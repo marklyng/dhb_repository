@@ -1,0 +1,26 @@
+interaction;funct_cat;BB_effect
+abrB       ;Biofilm;bb_plus
+eps        ;Biofilm;other_effect
+pksL       ;Sec. Met.;other_effect
+sfp        ;Sec. Met.;bb_minus
+sigF       ;Sporulation;other_effect
+srfA;Sec. Met.;other_effect
+tasA       ;Biofilm;other_effect
+cypX       ;Fe Homeostasis;other_effect
+feuA       ;Fe Homeostasis;bb_plus
+glpK       ;Pr. Met.;bb_minus
+gltB       ;Pr. Met.;other_effect
+kinA       ;TCS;other_effect
+kinB       ;TCS;other_effect
+kinC       ;TCS;other_effect
+kinD       ;TCS;other_effect
+kinE       ;TCS;other_effect
+mntA       ;Pr. Met.;other_effect
+mntH       ;Pr. Met.;other_effect
+mntR       ;Pr. Met.;other_effect
+yvmC       ;Fe Homeostasis;other_effect
+besA       ;Fe Homeostasis;bb_plus
+fur        ;Fe Homeostasis;bb_plus
+spo0A ;Biofilm;bb_minus
+dhbA;Fe Homeostasis;bb_minus
+3610;WT;bb_plus
