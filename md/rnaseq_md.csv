@@ -1,0 +1,16 @@
+sample;culture_type;medium;time;temp;interaction;rep
+B1;mono;KB;72;30;bs;1
+B2;mono;KB;72;30;bs;2
+B5;mono;KB;72;30;bs;3
+BP1;co;KB;72;30;bs_ps;1
+BP2;co;KB;72;30;bs_ps;2
+BP3;co;KB;72;30;bs_ps;3
+d1;mono;KB;72;30;mt;1
+d2;mono;KB;72;30;mt;2
+d3;mono;KB;72;30;mt;3
+dP1;co;KB;72;30;mt_ps;1
+dP2;co;KB;72;30;mt_ps;2
+dP3;co;KB;72;30;mt_ps;3
+P1;mono;KB;72;30;ps;1
+P2;mono;KB;72;30;ps;2
+P5;mono;KB;72;30;ps;3
