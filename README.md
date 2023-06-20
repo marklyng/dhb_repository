@@ -1,4 +1,5 @@
-# Analysis for "Competition for iron shapes metabolic antagonism between Bacillus subtilis and Pseudomonas" submitted to the ISME Journal June 2023
+# Analysis for "Competition for iron shapes metabolic antagonism between Bacillus subtilis and Pseudomonas"
+## Submitted to the ISME Journal June 2023
 
 This repository contains scripts and processed data for generating all figures for the aforementioned manuscript.
 To recreate the figures, the user will have to download a local clone of the repo and create an Rstudio Project within the repo directory.
