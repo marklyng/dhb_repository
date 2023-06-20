@@ -1,0 +1,7 @@
+lut	value
+mag_min	100
+mag_max	18000
+gfp_min	200
+gfp_max	12000
+grey_min	400
+grey_max	20000

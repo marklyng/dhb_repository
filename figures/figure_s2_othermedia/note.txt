@@ -1,0 +1,7 @@
+Pigmentation and antagonism is glycerol-dependent
+The medium specificity of the antagonism prompted us to investigate if any medium component in KB is essential for the interaction. 
+KB is composed of trypsin-digested casein supplemented with 1% glycerol, 6.08 mM Mg2+, and 16.20 mM K+. 
+Thus, the major difference between KB and LB is the presence of glycerol as a carbon source, and the supplementation of Mg2+ and K+. 
+by systematically removing each ingredient we found that removing any medium component from KB diminished the size restriction of PS92, apart from KB lacking Mg2+, 
+which resulted in a slightly weaker antagonism compared to regular KB. 
+In contrast, B. subtilis colony size increased in the combinations where glycerol was added to the medium.
